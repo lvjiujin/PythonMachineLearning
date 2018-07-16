@@ -16,3 +16,4 @@ https://blog.datarobot.com/anti-money-laundering-using-automated-machine-learnin
 https://blog.datarobot.com/strengthen-your-anti-money-laundering-program-with-automated-machine-learning
 https://www.datasciencecentral.com/profiles/blogs/detecting-money-laundering-with-unsupervised-ml
 https://complyadvantage.com/knowledgebase/anti-money-laundering/aml-compliance-program/
+https://www.acamstoday.org/using-data-analytics-to-identify-aml-risk/
